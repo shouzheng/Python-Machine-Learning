@@ -16,7 +16,6 @@
 ## 统计与概率复习
 
 - MeanMedianMode.ipynb  # 均值、中位数和众数
-
 - StdDevVariance.ipynb  # 标准差和方差
 - Percentiles.ipynb  # 百分位的概念
 - Moments.ipynb  # 矩的概念（均值、方差、偏度和峰度）
@@ -32,7 +31,7 @@
 
 - TrainTest.ipynb  # 使用训练/测试法防止过拟合
 
-### 数据预处理
+### 离群点分析
 
 - Outliers.ipynb  # 离群点处理
 
@@ -52,3 +51,9 @@
 ### 聚类模型
 
 - KMeans.ipynb  # 使用KMeans进行聚类
+
+## 推荐系统
+
+- SimilarMovies.ipynb  # 基于项目的协同过滤找到相似的电影
+- ItemBasedCF.ipynb  # 构建一个推荐系统，基于特定用户对电影的评价数据为用户推荐电影
+
